@@ -1,7 +1,7 @@
 # Projeto EMS - BI
 <h1 align="center">
 https://bi-ems.vercel.app/
-<h6 color="RED">Senha igual "emsbi2022"</h6>
+<h6> ☑ Senha igual "emsbi2022"</h6>
 
 </h1>
 

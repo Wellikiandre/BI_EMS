@@ -1,18 +1,16 @@
+# Projeto EMS - BI
 <h1 align="center">
-<br>
-[![Link Online](Power Bi)](https://bi-ems.vercel.app/)
-### Senha igual "emsbi2022"
-<br>
-###Tecnologias utilizadas.
-- SQL, M, Dax , JAVA e Python
-- SQL SERVER , POWER QUERY e TALEND
-<br>
-###EMS - BI
+https://bi-ems.vercel.app/
+<h6>Senha igual "emsbi2022"</h6>
+  
 </h1>
+
+### Tecnologias utilizadas.
+- [x] SQL, M, Dax , JAVA e Python
+- [x] SQL SERVER , POWER QUERY e TALEND
+
 <p align="center">Projeto de visualização de evolução de vendas de medicamentos e acompanhamento de ação de vendas em farmácias</p>
-[//]: # (Add your gifs/images here:)
-<div>
+<div align="center">
   <img src="https://i.ibb.co/xMwxSCv/init.png" alt="demo" height="500">
 </div>
 <hr />
-> Wellikiandre Martins Bosich de Souza

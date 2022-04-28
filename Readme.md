@@ -5,7 +5,7 @@ https://bi-ems.vercel.app/
 <h6> ☑ Senha para acessar o link acima => "emsbi2022"</h6>
 </h1>
 
-### Tecnologias utilizadas.
+#### Tecnologias utilizadas.
 - [x] SQL, M, Dax , JAVA e Python
 - [x] SQL SERVER , POWER QUERY e TALEND
 
